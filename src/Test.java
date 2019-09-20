@@ -15,7 +15,7 @@ public class Test {
      */
     public String getName() {
         return name;
-    }
+    } //65tg4t5g45rtgt
 
     /**
      * Set the value of name
